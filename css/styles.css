@@ -755,6 +755,7 @@ Projects Page
 .single-project {
   background: var(--clr-grey-10);
   border-radius: var(--radius);
+  height: fit-content;
 }
 .project-container img {
   border-top-left-radius: var(--radius);
